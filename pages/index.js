@@ -42,16 +42,16 @@ const Home = () => {
 				<div className="header">
 					<div className="header-title">
 						{/* Change your headline here */}
-						<h1>AI Song Writer</h1>
+						<h1>AI Blog Writer</h1>
 					</div>
 					<div className="header-subtitle">
 						<h1>Examples:</h1>
-            <h2>
-							Write a song about iPhones and Androids taking over the world.
+            			<h2>
+							Blockchain technology in healthcare
 						</h2>
-            <h2>
-             Write a song about artificial intelligence in the style of Joe Rogan.
-            </h2>
+						<h2>
+							Artificial Intelligence and Chat-GPT
+						</h2>
 					</div>
 				</div>
 
